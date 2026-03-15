@@ -43,3 +43,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
 <img src="https://giffiles.alphacoders.com/139/13940.gif" width="200">
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/RKuZJR7oQlQAAAAC/rowlet-pokemon.gif" width="200">
+</p>
