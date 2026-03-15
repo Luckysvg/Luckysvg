@@ -42,7 +42,4 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-<p align="center">
-  <img src="https://www.clipartmax.com/png/middle/305-3059814_sparklers-rayquaza-gif-rayquaza.png" width="200">
-  <img src="https://gifs.alphacoders.com/139/13940.gif" width="200">
-</p>
+<img src="https://giffiles.alphacoders.com/139/13940.gif" width="200">
