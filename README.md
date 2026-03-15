@@ -14,7 +14,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Luckysvg&show_icons=true&theme=tokyonight)
 
 ---
 
