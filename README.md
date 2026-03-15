@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas
 
-<!--
-**Luckysvg/Luckysvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de programação  
+📚 Atualmente aprendendo Python  
+🚀 Futuro desenvolvedor de software  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que estou aprendendo
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight)
+
+---
+
+## 📌 Projetos
+
+- 🐍 Projetos em Python
+- 💡 Estudos de programação
+- 🚀 Futuramente: Apps e sistemas
+
+
